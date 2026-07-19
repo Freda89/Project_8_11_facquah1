@@ -1,3 +1,4 @@
+Video Url: https://youtu.be/heUZsGamfx4
 # Shopping List Manager
 A simple program for managing a shopping list.
 - Add items
